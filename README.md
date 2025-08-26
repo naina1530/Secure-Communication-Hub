@@ -50,13 +50,11 @@ The SecureCommunication Hub envisions a future where:
 - **Privacy enhancements**: Implementation of advanced cryptographic protocols
 
 ## Contract Address Details
+Contract id: ST19B4MMBMRD4VT6EC832A5MZYVKX7H23Z2XBN6DV.SecureCommunicationHub
+<img width="2862" height="1494" alt="image" src="https://github.com/user-attachments/assets/3a5a2080-e88a-4477-bbc8-4b528a0efee3" />
 
-*Contract addresses will be updated after deployment on Stacks mainnet and testnet*
+<img width="2857" height="1494" alt="image" src="https://github.com/user-attachments/assets/99108275-e051-4ca7-bc46-21ffbd375d76" />
 
-### Testnet
-- **Contract Address**: 'ST19B4MMBMRD4VT6EC832A5MZYVKX7H23Z2XBN6DV.SecureCommunicationHub'
-- **Transaction Hash**: '0x6402c67e7a9b62479fb845b2a53e4f565feecf718b7a8b9debf7323639c4dc3d'
-- **Block Height**: '10:26:04 AM 8/26/2025'
 
 ### Contract Functions
 
@@ -84,9 +82,4 @@ The SecureCommunication Hub envisions a future where:
 - Key rotation tracking prevents replay attacks and ensures message freshness
 - Event logging enables off-chain indexing and notifications while preserving privacy
 
-### Screenshots
-Deployed Contract Address: ST19B4MMBMRD4VT6EC832A5MZYVKX7H23Z2XBN6DV.SecureCommunicationHub
-<img width="2862" height="1494" alt="image" src="https://github.com/user-attachments/assets/3a5a2080-e88a-4477-bbc8-4b528a0efee3" />
-
-<img width="2857" height="1494" alt="image" src="https://github.com/user-attachments/assets/99108275-e051-4ca7-bc46-21ffbd375d76" />
 
